@@ -1990,3 +1990,10 @@ Sit back and enjoy. "Netflix and skill" :P
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+
+
+## It-210 Activity 9B
+
+This is for an activity for a class in my undergrad where in I have been asked to add my name to a readme file.
+
+	- Joseph Scafetta
